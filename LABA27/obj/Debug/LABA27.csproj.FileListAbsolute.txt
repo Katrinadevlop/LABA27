@@ -1,0 +1,7 @@
+C:\Users\katya\source\repos\LABA27\LABA27\bin\Debug\LABA27.exe.config
+C:\Users\katya\source\repos\LABA27\LABA27\bin\Debug\LABA27.exe
+C:\Users\katya\source\repos\LABA27\LABA27\bin\Debug\LABA27.pdb
+C:\Users\katya\source\repos\LABA27\LABA27\obj\Debug\LABA27.csproj.AssemblyReference.cache
+C:\Users\katya\source\repos\LABA27\LABA27\obj\Debug\LABA27.csproj.CoreCompileInputs.cache
+C:\Users\katya\source\repos\LABA27\LABA27\obj\Debug\LABA27.exe
+C:\Users\katya\source\repos\LABA27\LABA27\obj\Debug\LABA27.pdb
